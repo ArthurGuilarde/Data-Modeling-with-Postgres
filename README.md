@@ -18,7 +18,7 @@ Now let's see Sparkify's ER Diagram and ETL process. After understand the diagra
 
 ## ER Diagram
 ---
-![Sparkify ER Diagram](https://i.postimg.cc/wvg9Khsc/ERD.jpg)
+![Sparkify ER Diagram](https://user-images.githubusercontent.com/26792437/205064111-07a831a3-bb26-4472-b057-051a81c5e891.jpg)
 
 ## ETL process
 ---
